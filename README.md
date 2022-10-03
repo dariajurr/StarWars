@@ -5,7 +5,7 @@
 Использовались:
 - HTML
 - CSS
-- jQuery
+- JavaScript, jQuery
 - Библиотека анимаций animate.css
 - плагин для слайдера owl.carousel
 
